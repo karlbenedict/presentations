@@ -18,14 +18,14 @@ University of Idaho
 
 
 # Data Management Planning - First Principles
-<!-- Karl - 20 minutes -->
+<!-- Karl - 15 minutes -->
 
 ### Topic 1
 
 
 
 # Data Management Plans - Requirements and Tools
-<!-- Luke - 20 minutes -->
+<!-- Luke - 15 minutes -->
 
 ### Topic 1
 
